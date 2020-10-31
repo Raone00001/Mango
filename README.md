@@ -1,2 +1,2 @@
-# Mango
-Stone
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
